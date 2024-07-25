@@ -1,4 +1,5 @@
 # Vehicle Navigation System Using GPS and IMU
+![image](https://github.com/user-attachments/assets/d4ce7361-508d-457d-aa31-8189d526ac9e)
 
 ## Overview
 
